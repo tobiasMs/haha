@@ -130,6 +130,8 @@ p {
   text-transform: uppercase;
 }
 
+
+
 .form-control {
   background-color: transparent;
   border: 1px solid #999;
@@ -240,7 +242,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/Tobi-1.jpg") repeat scroll center center / cover;
+  background: url("../foto/foto1.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }

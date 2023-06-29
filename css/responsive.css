@@ -41,9 +41,15 @@
   }
   .responsive {
     float: right;
-    padding-top: 15px;
+    padding-top: 30px;
     display: block;
   }
+  .responsive2 {
+    float: right;
+    padding-top: 30px;
+    display: block;
+  }
+
   /* About */
   .head-info .header-content .cmaster h1 {
     font-size: 32px;

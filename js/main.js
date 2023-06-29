@@ -79,12 +79,21 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Tobias Mikha Sulistiyo", "Musicians", "Editor", "Photographer"],
+      strings: ["To Our Journey", "To Our Family", "To Our Commitmen", "To Our Wedding"],
       typeSpeed: 100,
       loop: true,
     });
   });
 
+  var tulis = $(".tulis");
+
+  $(function() {
+    tulis.typed({
+      strings: ["Welcome To Ruth And Pietra Wedding"],
+      typeSpeed: 100,
+      loop: true,
+    });
+  });
 
   // ========================================================================= //
   //  Owl Carousel Services
